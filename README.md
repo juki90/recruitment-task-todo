@@ -2,7 +2,7 @@
 
 <h2>This is a TODO app made with React/Redux, Typescript, Node.js, Express and Mysql</h2>
 
-<h2>This test it, do the following steps: </h2>
+<h2>To test it, do the following steps: </h2>
 
 <ol>
   <li>Install dependicies in "client" and "backend" folder</li>
