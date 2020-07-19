@@ -8,7 +8,7 @@
 
 ### 2. Go to "client" folder, make build via "npm run build"
 
-### 3. Go to "backend" folder and enter "npm start" or "npm run dev"
+### 3. Go to "backend" folder and enter "npm start"
 
 ### 3. And it should run on localhost:2000
 
