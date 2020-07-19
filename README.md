@@ -4,12 +4,11 @@
 
 <h2>This test it, do the following steps: </h2>
 
-### 1. Install dependicies in "client" and "backend" folder
-
-### 2. Go to "client" folder, make build via "npm run build"
-
-### 3. Go to "backend" folder and enter "npm start" or "npm run dev"
-
-### 3. And it should run on localhost:2000
+<ol>
+  <li>Install dependicies in "client" and "backend" folder</li>
+  <li>Go to "client" folder, make build via "npm run build"</li>
+  <li>Go to "backend" folder and enter "npm start" or "npm run dev"</li>
+  <li>And it should run on localhost:2000</li>
+</ol>
 
 <p>Make sure you have Nodejs and Mysql installed on your system :D</p>
